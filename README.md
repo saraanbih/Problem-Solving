@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/saraanbih/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/saraanbih/Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/saraanbih/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saraanbih/Problem-Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saraanbih/Problem-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -32,6 +33,7 @@
 | [0049-group-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/saraanbih/Problem-Solving/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saraanbih/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/saraanbih/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/saraanbih/Problem-Solving/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saraanbih/Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -70,6 +72,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/saraanbih/Problem-Solving/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saraanbih/Problem-Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
@@ -112,4 +115,12 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/saraanbih/Problem-Solving/tree/master/0143-reorder-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
