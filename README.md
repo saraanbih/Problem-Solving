@@ -45,6 +45,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/saraanbih/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/saraanbih/Problem-Solving/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/saraanbih/Problem-Solving/tree/master/0141-linked-list-cycle) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/saraanbih/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/saraanbih/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/saraanbih/Problem-Solving/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/saraanbih/Problem-Solving/tree/master/0328-odd-even-linked-list) |
