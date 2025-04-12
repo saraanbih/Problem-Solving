@@ -43,6 +43,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/saraanbih/Problem-Solving/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/saraanbih/Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/saraanbih/Problem-Solving/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saraanbih/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saraanbih/Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -79,6 +80,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/saraanbih/Problem-Solving/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/saraanbih/Problem-Solving/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/saraanbih/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -102,4 +104,9 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saraanbih/Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/saraanbih/Problem-Solving/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/saraanbih/Problem-Solving/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
