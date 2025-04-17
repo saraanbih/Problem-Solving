@@ -21,6 +21,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/saraanbih/Problem-Solving/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/saraanbih/Problem-Solving/tree/master/0050-powx-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saraanbih/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/2050-count-good-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/saraanbih/Problem-Solving/tree/master/3548-find-the-count-of-good-integers) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/saraanbih/Problem-Solving/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/saraanbih/Problem-Solving/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/saraanbih/Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saraanbih/Problem-Solving/tree/master/0234-palindrome-linked-list) |
