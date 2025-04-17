@@ -16,6 +16,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saraanbih/Problem-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/saraanbih/Problem-Solving/tree/master/3548-find-the-count-of-good-integers) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saraanbih/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saraanbih/Problem-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3639-zero-array-transformation-i](https://github.com/saraanbih/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saraanbih/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
