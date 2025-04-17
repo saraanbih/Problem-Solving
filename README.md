@@ -115,6 +115,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saraanbih/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/saraanbih/Problem-Solving/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/saraanbih/Problem-Solving/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/saraanbih/Problem-Solving/tree/master/0234-palindrome-linked-list) |
@@ -176,10 +177,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saraanbih/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saraanbih/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -188,6 +191,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/saraanbih/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Prefix Sum
 |  |
