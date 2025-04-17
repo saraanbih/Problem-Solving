@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/saraanbih/Problem-Solving/tree/master/0155-min-stack) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/saraanbih/Problem-Solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/saraanbih/Problem-Solving/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
@@ -208,9 +210,22 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/saraanbih/Problem-Solving/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/saraanbih/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
