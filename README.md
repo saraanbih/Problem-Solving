@@ -93,6 +93,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/saraanbih/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/saraanbih/Problem-Solving/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
