@@ -1,14 +1,14 @@
 class Solution {
 public:
-    double myPow(double x, int n) {
-        long long N = n;
+    double myPow(double x, int N) {
+        long long n = N;
         if(N < 0){
             x = 1/x;
-            N = -N;
+            n = -n;
         }
-        if (N == 0) return 1;
-        double ans = myPow(x*x,N/2);
-        if(N%2) ans*=x;
-        return ans;
+       if(n==0) return 1;
+       double ans = myPow(x*x,n/2);
+       if(n%2)ans*=x;
+       return ans;
     }
 };
