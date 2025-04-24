@@ -18,6 +18,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saraanbih/Problem-Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saraanbih/Problem-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/saraanbih/Problem-Solving/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saraanbih/Problem-Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saraanbih/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -73,6 +74,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saraanbih/Problem-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saraanbih/Problem-Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saraanbih/Problem-Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/saraanbih/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
@@ -127,6 +129,7 @@
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saraanbih/Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String Matching
 |  |
 | ------- |
