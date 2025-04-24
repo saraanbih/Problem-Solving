@@ -1,14 +1,16 @@
 class Solution {
 public:
     vector<int> d = {0,1,0,-1,0};
-    bool isValid(int x,int y,int r,int c)
-       { return (x>=0) && (y>=0) && (x<r) && (y<c);}
-    void dfs(int x,int y,int r,int c,vector<vector<char>>& grid,vector<vector<bool>>& vis){
+    bool isValid(int x,int y,int r,int c){
+        return (x >= 0 && x < r && y >= 0 && y < c);
+    }
+    void dfs(int x,int y,int r,int c,vector<vector<char>>& grid,              vector<vector<bool>>& vis){
         vis[x][y] = true;
         for(int i=0;i<4;i++){
             int nx = x + d[i];
             int ny = y + d[i+1];
-            if(isValid(nx,ny,r,c) and !vis[nx][ny] and grid[nx][ny] == '1') dfs(nx,ny,r,c,grid,vis);
+            if(isValid(nx,ny,r,c) && !vis[nx][ny] && grid[nx][ny] == '1')
+                dfs(nx,ny,r,c,grid,vis);
         }
     }
     int numIslands(vector<vector<char>>& grid) {
@@ -18,10 +20,10 @@ public:
         int cnt = 0;
         for(int i=0;i<r;i++){
             for(int j=0;j<c;j++){
-                if(!vis[i][j] && grid[i][j] == '1') {
+                if(!vis[i][j] && grid[i][j] == '1'){
                     dfs(i,j,r,c,grid,vis);
                     cnt++;
-                } 
+                }
             }
         }
         return cnt;
