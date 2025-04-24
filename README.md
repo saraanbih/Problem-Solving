@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/saraanbih/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/saraanbih/Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saraanbih/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saraanbih/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/saraanbih/Problem-Solving/tree/master/0496-next-greater-element-i) |
@@ -89,6 +90,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/saraanbih/Problem-Solving/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/saraanbih/Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saraanbih/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/saraanbih/Problem-Solving/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saraanbih/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
@@ -174,6 +176,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saraanbih/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/saraanbih/Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/saraanbih/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/saraanbih/Problem-Solving/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saraanbih/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/saraanbih/Problem-Solving/tree/master/0206-reverse-linked-list) |
