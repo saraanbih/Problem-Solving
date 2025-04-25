@@ -5,39 +5,39 @@ public:
         vector<vector<int>> reverseGraph(n);
         vector<int> outDegree(n, 0);
 
-        // 1. بناء الجراف العكسي وحساب out-degree
+        // نعكس الأسهم ونحسب لكل نود كام سهم طالع منها
         for (int u = 0; u < n; ++u) {
             for (int v : graph[u]) {
-                reverseGraph[v].push_back(u); // عكسنا الاتجاه
+                reverseGraph[v].push_back(u);
                 outDegree[u]++;
             }
         }
 
-        // 2. Queue للبداية من النودز اللي out-degree = 0 (terminal nodes)
-        queue<int> q;
+        // نحط الهادية (اللي مش بتشاور على حد) في Stack
+        stack<int> stk;
         for (int i = 0; i < n; ++i) {
             if (outDegree[i] == 0) {
-                q.push(i);
+                stk.push(i);
             }
         }
 
         vector<bool> safe(n, false);
 
-        // 3. طوبولوجيكل سورْت
-        while (!q.empty()) {
-            int node = q.front();
-            q.pop();
+        // نمشي وحدة وحدة في Stack
+        while (!stk.empty()) {
+            int node = stk.top();
+            stk.pop();
             safe[node] = true;
 
             for (int neighbor : reverseGraph[node]) {
                 outDegree[neighbor]--;
                 if (outDegree[neighbor] == 0) {
-                    q.push(neighbor);
+                    stk.push(neighbor);
                 }
             }
         }
 
-        // 4. بناء الناتج
+        // نرجع اللي طلعوا آمنين
         vector<int> result;
         for (int i = 0; i < n; ++i) {
             if (safe[i]) {
