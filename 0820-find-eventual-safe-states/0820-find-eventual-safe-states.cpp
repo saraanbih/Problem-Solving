@@ -1,42 +1,31 @@
 class Solution {
 public:
-    bool dfs(int node, vector<vector<int>>& adj, vector<bool>& visit,
-             vector<bool>& inStack) {
-        // If the node is already in the stack, we have a cycle.
-        if (inStack[node]) {
-            return true;
+    bool dfs(int node, vector<vector<int>>& graph, vector<int>& color) {
+        if (color[node] != 0)
+            return color[node] == 2;  // لو لقيت node لونه أسود (2) → آمن
+
+        color[node] = 1; // خليها رمادي → بنزورها دلوقتي
+
+        for (int neighbor : graph[node]) {
+            if (!dfs(neighbor, graph, color))
+                return false;  // لو فيه neighbor مش آمن → أنا كمان مش آمن
         }
-        if (visit[node]) {
-            return false;
-        }
-        // Mark the current node as visited and part of current recursion stack.
-        visit[node] = true;
-        inStack[node] = true;
-        for (auto neighbor : adj[node]) {
-            if (dfs(neighbor, adj, visit, inStack)) {
-                return true;
-            }
-        }
-        // Remove the node from the stack.
-        inStack[node] = false;
-        return false;
+
+        color[node] = 2;  // خلصت من كل الجيران من غير مشاكل → node آمنة
+        return true;
     }
 
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<bool> visit(n), inStack(n);
+        vector<int> color(n, 0);  // كلهم لسه أبيض
+        vector<int> result;
 
-        for (int i = 0; i < n; i++) {
-            dfs(i, graph, visit, inStack);
-        }
-
-        vector<int> safeNodes;
-        for (int i = 0; i < n; i++) {
-            if (!inStack[i]) {
-                safeNodes.push_back(i);
+        for (int i = 0; i < n; ++i) {
+            if (dfs(i, graph, color)) {
+                result.push_back(i);  // اللي يطلع آمن، نحطه في النتيجة
             }
         }
 
-        return safeNodes;
+        return result;
     }
 };
