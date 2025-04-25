@@ -1,33 +1,33 @@
 class Solution {
 public:
    vector<int> restoreArray(vector<vector<int>>& adjacentPairs) {
-    unordered_map<int, vector<int>> adj;
-    for (auto& pair : adjacentPairs) {
-        int u = pair[0], v = pair[1];
+    unordered_map<int , vector<int>> adj;
+    for(auto & pair : adjacentPairs){
+        int u = pair[0],v=pair[1];
         adj[u].push_back(v);
         adj[v].push_back(u);
     }
     int st = 0;
-    for (auto& [k, n] : adj) {
-        if (n.size() == 1) {
+    for(auto&[k,n] : adj){
+        if(n.size() == 1){
             st = k;
             break;
         }
     }
     int n = adjacentPairs.size() + 1;
-    vector<int> ans(n);
     unordered_set<int> vis;
-    ans[0] = st;
+    vector<int> res(n);
+    res[0] = st;
     vis.insert(st);
-    for (int i = 1; i < n; ++i) {
-        for (int ne : adj[ans[i - 1]]) {
-            if (!vis.count(ne)) {
-                ans[i] = ne;
+    for(int i=1;i<n;i++){
+        for(int ne : adj[res[i-1]]){
+            if(!vis.count(ne)){
+                res[i] = ne;
                 vis.insert(ne);
                 break;
             }
         }
     }
-    return ans;
+    return res;
 }
 };
