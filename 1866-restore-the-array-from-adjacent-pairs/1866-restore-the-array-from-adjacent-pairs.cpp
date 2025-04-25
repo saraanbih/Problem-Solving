@@ -1,33 +1,33 @@
 class Solution {
 public:
-    vector<int> restoreArray(vector<vector<int>>& adjacentPairs) {
-        unordered_map<int, vector<int>> graph;
-        for (auto& pair : adjacentPairs) {
-            int u = pair[0], v = pair[1];
-            graph[u].push_back(v);
-            graph[v].push_back(u);
+   vector<int> restoreArray(vector<vector<int>>& adjacentPairs) {
+    unordered_map<int, vector<int>> adj;
+    for (auto& pair : adjacentPairs) {
+        int u = pair[0], v = pair[1];
+        adj[u].push_back(v);
+        adj[v].push_back(u);
+    }
+    int st = 0;
+    for (auto& [k, n] : adj) {
+        if (n.size() == 1) {
+            st = k;
+            break;
         }
-        int start = 0;
-        for (auto& [key, neighbors] : graph) {
-            if (neighbors.size() == 1) {
-                start = key;
+    }
+    int n = adjacentPairs.size() + 1;
+    vector<int> ans(n);
+    unordered_set<int> vis;
+    ans[0] = st;
+    vis.insert(st);
+    for (int i = 1; i < n; ++i) {
+        for (int ne : adj[ans[i - 1]]) {
+            if (!vis.count(ne)) {
+                ans[i] = ne;
+                vis.insert(ne);
                 break;
             }
         }
-        int n = adjacentPairs.size() + 1;
-        vector<int> result(n);
-        unordered_set<int> visited;
-        result[0] = start;
-        visited.insert(start);
-        for (int i = 1; i < n; ++i) {
-            for (int neighbor : graph[result[i - 1]]) {
-                if (!visited.count(neighbor)) {
-                    result[i] = neighbor;
-                    visited.insert(neighbor);
-                    break;
-                }
-            }
-        }
-        return result;
     }
+    return ans;
+}
 };
