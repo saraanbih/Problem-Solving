@@ -70,6 +70,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saraanbih/Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/saraanbih/Problem-Solving/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saraanbih/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2035-count-sub-islands](https://github.com/saraanbih/Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2249-count-the-hidden-sequences](https://github.com/saraanbih/Problem-Solving/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saraanbih/Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -235,6 +236,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2035-count-sub-islands](https://github.com/saraanbih/Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/saraanbih/Problem-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -249,6 +251,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2035-count-sub-islands](https://github.com/saraanbih/Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/saraanbih/Problem-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
@@ -297,9 +300,11 @@
 | [0200-number-of-islands](https://github.com/saraanbih/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/saraanbih/Problem-Solving/tree/master/0733-flood-fill) |
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
+| [2035-count-sub-islands](https://github.com/saraanbih/Problem-Solving/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/saraanbih/Problem-Solving/tree/master/0200-number-of-islands) |
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
+| [2035-count-sub-islands](https://github.com/saraanbih/Problem-Solving/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
