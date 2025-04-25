@@ -6,9 +6,7 @@ class Solution {
         return (x >= 0 && x < r && y >= 0 && y < c);
     }
 
-    bool dfs(int x, int y, vector<vector<int>>& grid1, vector<vector<int>>& grid2, vector<vector<bool>>& vis) {
-        int r = grid2.size();
-        int c = grid2[0].size();
+    bool dfs(int x, int y,int r,int c, vector<vector<int>>& grid1, vector<vector<int>>& grid2, vector<vector<bool>>& vis) {
 
         bool is_subland = true;
 
@@ -21,7 +19,7 @@ class Solution {
             int ny = y + dir[i + 1];
 
             if (isValid(nx, ny, r, c) && !vis[nx][ny] && grid2[nx][ny] == 1) {
-                bool ans = dfs(nx, ny, grid1, grid2, vis);
+                bool ans = dfs(nx, ny,r,c, grid1, grid2, vis);
 
                 is_subland = is_subland && ans;
             }
@@ -41,9 +39,7 @@ public:
         for (int x = 0; x < r; ++x) {
             for (int y = 0; y < c; ++y) {
                 if (!vis[x][y] && grid2[x][y] == 1) {
-                    if (dfs(x, y, grid1, grid2, vis)) {
-                        cnt++;
-                    }
+                    if (dfs(x, y,r,c, grid1, grid2, vis)) cnt++;
                 }
             }
         }
