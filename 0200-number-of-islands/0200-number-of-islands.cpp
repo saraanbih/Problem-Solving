@@ -4,7 +4,7 @@ public:
     bool isValid(int x,int y,int r,int c){
         return (x >= 0 && x < r && y >= 0 && y < c);
     }
-    void dfs(int x,int y,int r,int c,vector<vector<char>>& grid,              vector<vector<bool>>& vis){
+    void dfs(int x,int y,int r,int c,vector<vector<char>>& grid,vector<vector<bool>>& vis){
         vis[x][y] = true;
         for(int i=0;i<4;i++){
             int nx = x + d[i];
