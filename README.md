@@ -88,6 +88,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saraanbih/Problem-Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/saraanbih/Problem-Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saraanbih/Problem-Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/saraanbih/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saraanbih/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -147,6 +148,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/saraanbih/Problem-Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/saraanbih/Problem-Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## String Matching
 |  |
 | ------- |
