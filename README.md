@@ -345,4 +345,8 @@
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/saraanbih/Problem-Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/saraanbih/Problem-Solving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
