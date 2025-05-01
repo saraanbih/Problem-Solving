@@ -32,7 +32,7 @@ public:
             Node *cur = q.front();
             q.pop();
             for(auto &n : cur->neighbors){
-                if(!clone.count(n)){
+                if(clone.find(n) == clone.end()){
                     clone[n] = new Node(n->val);
                     q.push(n);
                 }
