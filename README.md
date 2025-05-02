@@ -22,6 +22,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saraanbih/Problem-Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saraanbih/Problem-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saraanbih/Problem-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/saraanbih/Problem-Solving/tree/master/3548-find-the-count-of-good-integers) |
@@ -94,6 +95,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saraanbih/Problem-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saraanbih/Problem-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saraanbih/Problem-Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saraanbih/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saraanbih/Problem-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
