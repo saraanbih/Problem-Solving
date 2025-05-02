@@ -136,6 +136,7 @@
 | [0049-group-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/saraanbih/Problem-Solving/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [1205-defanging-an-ip-address](https://github.com/saraanbih/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saraanbih/Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saraanbih/Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
