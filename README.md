@@ -13,6 +13,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/saraanbih/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/saraanbih/Problem-Solving/tree/master/0496-next-greater-element-i) |
+| [0782-jewels-and-stones](https://github.com/saraanbih/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -136,6 +137,7 @@
 | [0049-group-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/saraanbih/Problem-Solving/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0782-jewels-and-stones](https://github.com/saraanbih/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/saraanbih/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saraanbih/Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
