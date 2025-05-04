@@ -17,6 +17,7 @@
 | [0782-jewels-and-stones](https://github.com/saraanbih/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/saraanbih/Problem-Solving/tree/master/1500-count-largest-group) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -79,6 +80,7 @@
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/saraanbih/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saraanbih/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saraanbih/Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Backtracking
 |  |
 | ------- |
