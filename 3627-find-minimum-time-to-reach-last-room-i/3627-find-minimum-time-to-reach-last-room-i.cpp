@@ -1,20 +1,19 @@
-class State {
-public:
-    int x;
-    int y;
-    int dis;
-    State(int x, int y, int dis) : x(x), y(y), dis(dis) {}
-};
-
 class Solution {
 public:
+    struct State{
+        int x;
+        int y;
+        int dis;
+    };
+    vector<int> dir = {0,1,0,-1,0};
+    bool isValid(int x,int y,int r,int c){
+        return (x>=0 && x<r && y>=0 && y<c);
+    }
     int minTimeToReach(vector<vector<int>>& moveTime) {
-        int inf = 0x3f3f3f3f;
         int n = moveTime.size(), m = moveTime[0].size();
-        vector<vector<int>> d(n, vector<int>(m, inf));
-        vector<vector<int>> v(n, vector<int>(m, 0));
+        vector<vector<int>> d(n, vector<int>(m, INT_MAX));
+        vector<vector<bool>> v(n, vector<bool>(m, false));
 
-        int dirs[4][2] = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
         d[0][0] = 0;
 
         auto cmp = [](const State& a, const State& b) { return a.dis > b.dis; };
@@ -29,9 +28,9 @@ public:
             v[s.x][s.y] = 1;
 
             for (int i = 0; i < 4; i++) {
-                int nx = s.x + dirs[i][0];
-                int ny = s.y + dirs[i][1];
-                if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
+                int nx = s.x + dir[i];
+                int ny = s.y + dir[i+1];
+                if (!isValid(nx,ny,n,m)) continue;
 
                 int dist = max(d[s.x][s.y], moveTime[nx][ny]) + 1;
                 if (d[nx][ny] > dist) {
