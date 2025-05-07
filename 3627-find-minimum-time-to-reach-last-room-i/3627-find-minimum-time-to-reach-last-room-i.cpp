@@ -1,14 +1,11 @@
 class Solution {
 public:
-    struct State{
-        int x;
-        int y;
-        int dis;
-    };
-    vector<int> dir = {0,1,0,-1,0};
-    bool isValid(int x,int y,int r,int c){
-        return (x>=0 && x<r && y>=0 && y<c);
+    vector<int> dir = {0, 1, 0, -1, 0};
+
+    bool isValid(int x, int y, int r, int c) {
+        return (x >= 0 && x < r && y >= 0 && y < c);
     }
+
     int minTimeToReach(vector<vector<int>>& moveTime) {
         int n = moveTime.size(), m = moveTime[0].size();
         vector<vector<int>> d(n, vector<int>(m, INT_MAX));
@@ -16,26 +13,25 @@ public:
 
         d[0][0] = 0;
 
-        auto cmp = [](const State& a, const State& b) { return a.dis > b.dis; };
-
-        priority_queue<State, vector<State>, decltype(cmp)> q(cmp);
-        q.push(State(0, 0, 0));
+        // (dis, x, y) - so priority_queue sorts by distance ascending
+        using T = tuple<int, int, int>;
+        priority_queue<T, vector<T>, greater<T>> q;
+        q.push({0, 0, 0}); // (distance, x, y)
 
         while (!q.empty()) {
-            State s = q.top();
-            q.pop();
-            if (v[s.x][s.y]) continue;
-            v[s.x][s.y] = 1;
+            auto [dist, x, y] = q.top(); q.pop();
+            if (v[x][y]) continue;
+            v[x][y] = true;
 
             for (int i = 0; i < 4; i++) {
-                int nx = s.x + dir[i];
-                int ny = s.y + dir[i+1];
-                if (!isValid(nx,ny,n,m)) continue;
+                int nx = x + dir[i];
+                int ny = y + dir[i+1];
+                if (!isValid(nx, ny, n, m)) continue;
 
-                int dist = max(d[s.x][s.y], moveTime[nx][ny]) + 1;
-                if (d[nx][ny] > dist) {
-                    d[nx][ny] = dist;
-                    q.push(State(nx, ny, dist));
+                int newDist = max(d[x][y], moveTime[nx][ny]) + 1;
+                if (d[nx][ny] > newDist) {
+                    d[nx][ny] = newDist;
+                    q.push({newDist, nx, ny});
                 }
             }
         }
