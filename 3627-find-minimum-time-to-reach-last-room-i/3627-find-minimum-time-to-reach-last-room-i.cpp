@@ -26,7 +26,7 @@ public:
                 int ny = y + dir[i+1];
                 if (!isValid(nx, ny, r, c)) continue;
 
-                int nt = max(mn[x][y], moveTime[nx][ny]);
+                int nt = max(mn[x][y], moveTime[nx][ny]) + 1;
                 if (nt < mn[nx][ny]) {
                     mn[nx][ny] = nt;
                     pq.push({nt, nx, ny});
