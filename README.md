@@ -111,6 +111,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saraanbih/Problem-Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/saraanbih/Problem-Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saraanbih/Problem-Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saraanbih/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/saraanbih/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saraanbih/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/saraanbih/Problem-Solving/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -353,6 +354,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saraanbih/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -366,6 +368,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/saraanbih/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saraanbih/Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/saraanbih/Problem-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saraanbih/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -390,6 +393,7 @@
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/saraanbih/Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/saraanbih/Problem-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saraanbih/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Union Find
 |  |
 | ------- |
@@ -434,4 +438,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saraanbih/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
