@@ -83,6 +83,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/saraanbih/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/saraanbih/Problem-Solving/tree/master/1293-three-consecutive-odds) |
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saraanbih/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saraanbih/Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
