@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/saraanbih/Problem-Solving/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/saraanbih/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/saraanbih/Problem-Solving/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/saraanbih/Problem-Solving/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/saraanbih/Problem-Solving/tree/master/0141-linked-list-cycle) |
@@ -78,6 +79,7 @@
 | [0015-3sum](https://github.com/saraanbih/Problem-Solving/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/saraanbih/Problem-Solving/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saraanbih/Problem-Solving/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/saraanbih/Problem-Solving/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/saraanbih/Problem-Solving/tree/master/0130-surrounded-regions) |
@@ -421,6 +423,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/saraanbih/Problem-Solving/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/saraanbih/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saraanbih/Problem-Solving/tree/master/0200-number-of-islands) |
