@@ -47,6 +47,7 @@
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saraanbih/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/saraanbih/Problem-Solving/tree/master/1500-count-largest-group) |
+| [1585-the-kth-factor-of-n](https://github.com/saraanbih/Problem-Solving/tree/master/1585-the-kth-factor-of-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saraanbih/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saraanbih/Problem-Solving/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -419,6 +420,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/saraanbih/Problem-Solving/tree/master/1585-the-kth-factor-of-n) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saraanbih/Problem-Solving/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/saraanbih/Problem-Solving/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Matrix
