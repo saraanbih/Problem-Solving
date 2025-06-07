@@ -32,6 +32,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/saraanbih/Problem-Solving/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2915-count-of-interesting-subarrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/saraanbih/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saraanbih/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/saraanbih/Problem-Solving/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saraanbih/Problem-Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saraanbih/Problem-Solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -194,6 +195,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saraanbih/Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/saraanbih/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saraanbih/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saraanbih/Problem-Solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/saraanbih/Problem-Solving/tree/master/3637-count-number-of-balanced-permutations) |
@@ -235,6 +237,7 @@
 | [0496-next-greater-element-i](https://github.com/saraanbih/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/saraanbih/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saraanbih/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
 |  |
 | ------- |
@@ -246,6 +249,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/saraanbih/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/saraanbih/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/saraanbih/Problem-Solving/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saraanbih/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Design
 |  |
 | ------- |
@@ -406,6 +410,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saraanbih/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saraanbih/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Data Stream
