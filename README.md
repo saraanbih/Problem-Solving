@@ -345,6 +345,7 @@
 | [0133-clone-graph](https://github.com/saraanbih/Problem-Solving/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/saraanbih/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/0386-lexicographical-numbers) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/saraanbih/Problem-Solving/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/saraanbih/Problem-Solving/tree/master/0801-is-graph-bipartite) |
@@ -528,4 +529,8 @@
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saraanbih/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
