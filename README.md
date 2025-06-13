@@ -132,6 +132,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/saraanbih/Problem-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/saraanbih/Problem-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/saraanbih/Problem-Solving/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -259,6 +260,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/saraanbih/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/saraanbih/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saraanbih/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/saraanbih/Problem-Solving/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saraanbih/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Design
@@ -278,6 +280,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/saraanbih/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/saraanbih/Problem-Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saraanbih/Problem-Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Linked List
 |  |
