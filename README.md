@@ -121,6 +121,7 @@
 | [2035-count-sub-islands](https://github.com/saraanbih/Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/saraanbih/Problem-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/saraanbih/Problem-Solving/tree/master/2048-build-array-from-permutation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/saraanbih/Problem-Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/saraanbih/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/saraanbih/Problem-Solving/tree/master/2249-count-the-hidden-sequences) |
