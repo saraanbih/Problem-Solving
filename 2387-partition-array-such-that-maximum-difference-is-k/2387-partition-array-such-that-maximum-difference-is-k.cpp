@@ -3,16 +3,12 @@ public:
     int partitionArray(vector<int>& nums, int k) {
         int n = nums.size();
         sort(nums.begin(),nums.end());
-        int mn = INT_MAX,mx = INT_MIN;
         int cnt = 0;
-        for(int i=0;i<n;i++){
-            if(nums[i]<mn)mn=nums[i];
-            if(nums[i]>mx)mx=nums[i];
-            if(mx-mn>k){
-                cnt++;i--;
-                mn = INT_MAX,mx = INT_MIN;
-            }
+        for(int i=0;i<n;){
+            int st = nums[i];
+            cnt++;
+            while(i<n && nums[i] - st <= k)i++;
         }
-        return ++cnt;
+        return cnt;
     }
 };
