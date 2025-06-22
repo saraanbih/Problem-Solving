@@ -187,6 +187,7 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/saraanbih/Problem-Solving/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/saraanbih/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saraanbih/Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 ## String
@@ -207,6 +208,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saraanbih/Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/saraanbih/Problem-Solving/tree/master/1944-truncate-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/saraanbih/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/saraanbih/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saraanbih/Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saraanbih/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
