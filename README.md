@@ -134,6 +134,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/saraanbih/Problem-Solving/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saraanbih/Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/saraanbih/Problem-Solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/saraanbih/Problem-Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/saraanbih/Problem-Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -179,6 +180,7 @@
 | [0868-push-dominoes](https://github.com/saraanbih/Problem-Solving/tree/master/0868-push-dominoes) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saraanbih/Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saraanbih/Problem-Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
