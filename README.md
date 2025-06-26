@@ -214,6 +214,7 @@
 | [1944-truncate-sentence](https://github.com/saraanbih/Problem-Solving/tree/master/1944-truncate-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/saraanbih/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/saraanbih/Problem-Solving/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/saraanbih/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saraanbih/Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saraanbih/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -282,6 +283,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/saraanbih/Problem-Solving/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/saraanbih/Problem-Solving/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/saraanbih/Problem-Solving/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/saraanbih/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saraanbih/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/saraanbih/Problem-Solving/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -483,6 +485,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/saraanbih/Problem-Solving/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/saraanbih/Problem-Solving/tree/master/0868-push-dominoes) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/saraanbih/Problem-Solving/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saraanbih/Problem-Solving/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/saraanbih/Problem-Solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -565,6 +568,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/saraanbih/Problem-Solving/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Shortest Path
 |  |
 | ------- |
