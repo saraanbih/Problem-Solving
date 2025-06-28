@@ -4,14 +4,14 @@ public:
         vector<int> v = nums;
         sort(v.begin(),v.end(),greater<int>());
         vector<int> ans;
-        unordered_map<int,int> mp;  
+        unordered_map<int,int> cnt;  
         for(int i = 0;i<k;i++){
-            mp[v[i]]++;
+            cnt[v[i]]++;
         }
         for(auto &num : nums){
-            if(mp[num]){
+            if(cnt[num]){
                 ans.push_back(num);
-                mp[num]--;
+                cnt[num]--;
             }
         }
         return ans;
