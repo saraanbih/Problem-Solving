@@ -24,6 +24,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/saraanbih/Problem-Solving/tree/master/1500-count-largest-group) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/saraanbih/Problem-Solving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/saraanbih/Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saraanbih/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -132,6 +133,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saraanbih/Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/saraanbih/Problem-Solving/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saraanbih/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/saraanbih/Problem-Solving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2035-count-sub-islands](https://github.com/saraanbih/Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/saraanbih/Problem-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/saraanbih/Problem-Solving/tree/master/2048-build-array-from-permutation) |
@@ -316,6 +318,7 @@
 | [0155-min-stack](https://github.com/saraanbih/Problem-Solving/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/saraanbih/Problem-Solving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
