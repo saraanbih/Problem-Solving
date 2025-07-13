@@ -616,6 +616,7 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/saraanbih/Problem-Solving/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/saraanbih/Problem-Solving/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/saraanbih/Problem-Solving/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/saraanbih/Problem-Solving/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/saraanbih/Problem-Solving/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/saraanbih/Problem-Solving/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/saraanbih/Problem-Solving/tree/master/2087-confirmation-rate) |
