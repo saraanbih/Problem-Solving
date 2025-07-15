@@ -244,6 +244,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saraanbih/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/saraanbih/Problem-Solving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/saraanbih/Problem-Solving/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/saraanbih/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saraanbih/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/saraanbih/Problem-Solving/tree/master/3617-find-the-original-typed-string-i) |
