@@ -125,6 +125,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/saraanbih/Problem-Solving/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/saraanbih/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saraanbih/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/saraanbih/Problem-Solving/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -236,6 +237,7 @@
 | [0868-push-dominoes](https://github.com/saraanbih/Problem-Solving/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/saraanbih/Problem-Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1205-defanging-an-ip-address](https://github.com/saraanbih/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/saraanbih/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saraanbih/Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/saraanbih/Problem-Solving/tree/master/1944-truncate-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -449,6 +451,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/saraanbih/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saraanbih/Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/saraanbih/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -650,4 +653,5 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/saraanbih/Problem-Solving/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/saraanbih/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
