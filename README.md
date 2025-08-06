@@ -207,6 +207,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saraanbih/Problem-Solving/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/saraanbih/Problem-Solving/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/saraanbih/Problem-Solving/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -398,6 +399,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saraanbih/Problem-Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/saraanbih/Problem-Solving/tree/master/3791-fruits-into-baskets-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -711,6 +713,7 @@
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/saraanbih/Problem-Solving/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/saraanbih/Problem-Solving/tree/master/3791-fruits-into-baskets-iii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -719,4 +722,5 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/saraanbih/Problem-Solving/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
