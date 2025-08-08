@@ -59,6 +59,7 @@
 | [0050-powx-n](https://github.com/saraanbih/Problem-Solving/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saraanbih/Problem-Solving/tree/master/0066-plus-one) |
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/saraanbih/Problem-Solving/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saraanbih/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/saraanbih/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/saraanbih/Problem-Solving/tree/master/1500-count-largest-group) |
@@ -597,6 +598,7 @@
 | [0118-pascals-triangle](https://github.com/saraanbih/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0806-domino-and-tromino-tiling](https://github.com/saraanbih/Problem-Solving/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/saraanbih/Problem-Solving/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/saraanbih/Problem-Solving/tree/master/0868-push-dominoes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saraanbih/Problem-Solving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/saraanbih/Problem-Solving/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -726,4 +728,8 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/saraanbih/Problem-Solving/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/saraanbih/Problem-Solving/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
