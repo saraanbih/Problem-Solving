@@ -58,6 +58,7 @@
 | [0012-integer-to-roman](https://github.com/saraanbih/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/saraanbih/Problem-Solving/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saraanbih/Problem-Solving/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/saraanbih/Problem-Solving/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/saraanbih/Problem-Solving/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saraanbih/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -425,6 +426,7 @@
 | [0050-powx-n](https://github.com/saraanbih/Problem-Solving/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/saraanbih/Problem-Solving/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/saraanbih/Problem-Solving/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/saraanbih/Problem-Solving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saraanbih/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/saraanbih/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -457,6 +459,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/saraanbih/Problem-Solving/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saraanbih/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/saraanbih/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saraanbih/Problem-Solving/tree/master/2400-minimum-score-after-removals-on-a-tree) |
