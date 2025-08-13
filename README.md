@@ -60,6 +60,7 @@
 | [0050-powx-n](https://github.com/saraanbih/Problem-Solving/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saraanbih/Problem-Solving/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/saraanbih/Problem-Solving/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/saraanbih/Problem-Solving/tree/master/0326-power-of-three) |
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/saraanbih/Problem-Solving/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/saraanbih/Problem-Solving/tree/master/0900-reordered-power-of-2) |
@@ -433,6 +434,7 @@
 | [0206-reverse-linked-list](https://github.com/saraanbih/Problem-Solving/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/saraanbih/Problem-Solving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saraanbih/Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/saraanbih/Problem-Solving/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/saraanbih/Problem-Solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
