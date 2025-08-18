@@ -62,6 +62,7 @@
 | [0231-power-of-two](https://github.com/saraanbih/Problem-Solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/saraanbih/Problem-Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saraanbih/Problem-Solving/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/saraanbih/Problem-Solving/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/saraanbih/Problem-Solving/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/saraanbih/Problem-Solving/tree/master/0867-new-21-game) |
@@ -135,6 +136,7 @@
 | [0496-next-greater-element-i](https://github.com/saraanbih/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/saraanbih/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/saraanbih/Problem-Solving/tree/master/0605-can-place-flowers) |
+| [0679-24-game](https://github.com/saraanbih/Problem-Solving/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/saraanbih/Problem-Solving/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/saraanbih/Problem-Solving/tree/master/0940-fruit-into-baskets) |
@@ -466,6 +468,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saraanbih/Problem-Solving/tree/master/0079-word-search) |
+| [0679-24-game](https://github.com/saraanbih/Problem-Solving/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/saraanbih/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saraanbih/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/saraanbih/Problem-Solving/tree/master/2140-longest-subsequence-repeated-k-times) |
