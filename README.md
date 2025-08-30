@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saraanbih/Problem-Solving/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/saraanbih/Problem-Solving/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/saraanbih/Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/saraanbih/Problem-Solving/tree/master/0127-word-ladder) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saraanbih/Problem-Solving/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/saraanbih/Problem-Solving/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/saraanbih/Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/saraanbih/Problem-Solving/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
@@ -670,6 +672,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/saraanbih/Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/saraanbih/Problem-Solving/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/saraanbih/Problem-Solving/tree/master/0130-surrounded-regions) |
