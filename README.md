@@ -28,6 +28,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/saraanbih/Problem-Solving/tree/master/1500-count-largest-group) |
 | [1813-maximum-erasure-value](https://github.com/saraanbih/Problem-Solving/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/saraanbih/Problem-Solving/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/saraanbih/Problem-Solving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/saraanbih/Problem-Solving/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -174,6 +175,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/saraanbih/Problem-Solving/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/saraanbih/Problem-Solving/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/saraanbih/Problem-Solving/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/saraanbih/Problem-Solving/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saraanbih/Problem-Solving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saraanbih/Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -406,6 +408,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/saraanbih/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/saraanbih/Problem-Solving/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/saraanbih/Problem-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/saraanbih/Problem-Solving/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/saraanbih/Problem-Solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/saraanbih/Problem-Solving/tree/master/2140-longest-subsequence-repeated-k-times) |
