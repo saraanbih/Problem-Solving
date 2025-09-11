@@ -10,11 +10,10 @@ public:
             }
         }
         sort(vowels.begin(),vowels.end());
+        int idx = 0;
         for(int i=0;i<s.length();i++){
-            if(v.count(s[i]) && vowels.size() > 0){
-                auto val = *vowels.begin();
-                s[i] = val;
-                vowels.erase(vowels.begin());
+            if(v.count(s[i])){
+                s[i] = vowels[idx++];
             }
         }
         return s;
