@@ -319,6 +319,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/saraanbih/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saraanbih/Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saraanbih/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/saraanbih/Problem-Solving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/saraanbih/Problem-Solving/tree/master/3396-valid-word) |
@@ -354,6 +355,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/saraanbih/Problem-Solving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2689-rearranging-fruits](https://github.com/saraanbih/Problem-Solving/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/saraanbih/Problem-Solving/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saraanbih/Problem-Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/saraanbih/Problem-Solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
