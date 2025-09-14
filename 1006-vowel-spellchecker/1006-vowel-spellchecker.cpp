@@ -1,51 +1,59 @@
 class Solution {
 public:
-    static bool isVowel(char c) {
-        c = tolower((unsigned char)c);
-        return c=='a' || c=='e' || c=='i' || c=='o' || c=='u';
+    bool isVowel(char ch){
+        char c = tolower(ch);
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
 
-    static string toLowerStr(const string &s) {
-        string r = s;
-        for (char &c : r) c = tolower((unsigned char)c);
-        return r;
+    string to_lower(string s){
+        string lower = s;
+        for(auto &ch : lower){
+            ch = tolower(ch);
+        }
+        return lower;
     }
 
-    static string devowel(const string &s) {
-        string r = toLowerStr(s);
-        for (char &c : r) if (isVowel(c)) c = '#';
-        return r;
+    
+    string rep_vowel(string word){
+        string l = to_lower(word);
+        for(auto &ch : l) 
+            if(isVowel(ch)) ch = '.';
+        return l;
     }
 
     vector<string> spellchecker(vector<string>& wordlist, vector<string>& queries) {
-        unordered_set<string> exact(wordlist.begin(), wordlist.end());
-        unordered_map<string,string> caseInsensitive;
-        unordered_map<string,string> vowelMap;
+       //full-match - cap - ve
+       unordered_set<string> full(wordlist.begin(),wordlist.end());
+       unordered_map<string,string> cap;
+       unordered_map<string,string> ve;
 
-        for (const auto &w : wordlist) {
-            string lw = toLowerStr(w);
-            if (!caseInsensitive.count(lw)) caseInsensitive[lw] = w;
-
-            string dv = devowel(lw); 
-            if (!vowelMap.count(dv)) vowelMap[dv] = w;
+        for(auto &word : wordlist){
+            string l = to_lower(word);
+            if(!cap.count(l))
+                cap[l] = word;
+            
+            string rep = rep_vowel(word);
+            if(!ve.count(rep))
+                ve[rep] = word;
         }
 
-        vector<string> ans;
-        ans.reserve(queries.size());
-        for (const auto &q : queries) {
-            if (exact.count(q)) {                
-                ans.push_back(q);
-                continue;
-            }
-            string lq = toLowerStr(q);
-            if (caseInsensitive.count(lq)) {    
-                ans.push_back(caseInsensitive[lq]);
-                continue;
-            }
-            string dq = devowel(lq);            // vowel-error match
-            if (vowelMap.count(dq)) ans.push_back(vowelMap[dq]);
-            else ans.push_back("");
-        }
-        return ans;
+       vector<string> ans;
+       for(auto& q : queries){
+          if(full.count(q)){
+            ans.push_back(q);
+            continue;
+          }
+          string ql = to_lower(q);
+          if(cap.count(ql)){
+            ans.push_back(cap[ql]);
+            continue;
+          }
+          string qr = rep_vowel(q);
+          if(ve.count(qr))
+            ans.push_back(ve[qr]);
+          else
+            ans.push_back("");
+       }
+       return ans;
     }
 };
