@@ -26,6 +26,7 @@
 | [1006-vowel-spellchecker](https://github.com/saraanbih/Problem-Solving/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/saraanbih/Problem-Solving/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/saraanbih/Problem-Solving/tree/master/1500-count-largest-group) |
 | [1813-maximum-erasure-value](https://github.com/saraanbih/Problem-Solving/tree/master/1813-maximum-erasure-value) |
@@ -310,6 +311,7 @@
 | [1006-vowel-spellchecker](https://github.com/saraanbih/Problem-Solving/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/saraanbih/Problem-Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1205-defanging-an-ip-address](https://github.com/saraanbih/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/saraanbih/Problem-Solving/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saraanbih/Problem-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/saraanbih/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/saraanbih/Problem-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
