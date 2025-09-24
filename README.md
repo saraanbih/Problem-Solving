@@ -15,6 +15,7 @@
 | [0141-linked-list-cycle](https://github.com/saraanbih/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saraanbih/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saraanbih/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/saraanbih/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/saraanbih/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/saraanbih/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
@@ -70,6 +71,7 @@
 | [0012-integer-to-roman](https://github.com/saraanbih/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/saraanbih/Problem-Solving/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saraanbih/Problem-Solving/tree/master/0066-plus-one) |
+| [0166-fraction-to-recurring-decimal](https://github.com/saraanbih/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/saraanbih/Problem-Solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/saraanbih/Problem-Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saraanbih/Problem-Solving/tree/master/0342-power-of-four) |
@@ -316,6 +318,7 @@
 | [0079-word-search](https://github.com/saraanbih/Problem-Solving/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/saraanbih/Problem-Solving/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/saraanbih/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0768-partition-labels](https://github.com/saraanbih/Problem-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/saraanbih/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/saraanbih/Problem-Solving/tree/master/0868-push-dominoes) |
