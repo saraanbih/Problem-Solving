@@ -78,6 +78,7 @@
 | [0679-24-game](https://github.com/saraanbih/Problem-Solving/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/saraanbih/Problem-Solving/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/saraanbih/Problem-Solving/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/saraanbih/Problem-Solving/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/saraanbih/Problem-Solving/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saraanbih/Problem-Solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -168,6 +169,7 @@
 | [0679-24-game](https://github.com/saraanbih/Problem-Solving/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/saraanbih/Problem-Solving/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/saraanbih/Problem-Solving/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/saraanbih/Problem-Solving/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/saraanbih/Problem-Solving/tree/master/0945-snakes-and-ladders) |
 | [1006-vowel-spellchecker](https://github.com/saraanbih/Problem-Solving/tree/master/1006-vowel-spellchecker) |
@@ -871,6 +873,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/saraanbih/Problem-Solving/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saraanbih/Problem-Solving/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
 |  |
