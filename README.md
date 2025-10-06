@@ -174,6 +174,7 @@
 | [0611-valid-triangle-number](https://github.com/saraanbih/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/saraanbih/Problem-Solving/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/saraanbih/Problem-Solving/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/saraanbih/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/saraanbih/Problem-Solving/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/saraanbih/Problem-Solving/tree/master/0940-fruit-into-baskets) |
@@ -497,6 +498,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saraanbih/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/saraanbih/Problem-Solving/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/saraanbih/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/saraanbih/Problem-Solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saraanbih/Problem-Solving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saraanbih/Problem-Solving/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -616,6 +618,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/saraanbih/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/saraanbih/Problem-Solving/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/saraanbih/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/saraanbih/Problem-Solving/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/saraanbih/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saraanbih/Problem-Solving/tree/master/0820-find-eventual-safe-states) |
@@ -646,6 +649,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/saraanbih/Problem-Solving/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/saraanbih/Problem-Solving/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0794-swim-in-rising-water](https://github.com/saraanbih/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/saraanbih/Problem-Solving/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/saraanbih/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saraanbih/Problem-Solving/tree/master/0820-find-eventual-safe-states) |
@@ -694,6 +698,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/saraanbih/Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/saraanbih/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/saraanbih/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/saraanbih/Problem-Solving/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/saraanbih/Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -771,6 +776,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/saraanbih/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/saraanbih/Problem-Solving/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/saraanbih/Problem-Solving/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/saraanbih/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/saraanbih/Problem-Solving/tree/master/0945-snakes-and-ladders) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
@@ -791,6 +797,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/saraanbih/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saraanbih/Problem-Solving/tree/master/0200-number-of-islands) |
+| [0794-swim-in-rising-water](https://github.com/saraanbih/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/saraanbih/Problem-Solving/tree/master/0801-is-graph-bipartite) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/saraanbih/Problem-Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
