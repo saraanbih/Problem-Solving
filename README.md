@@ -222,6 +222,7 @@
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/saraanbih/Problem-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/saraanbih/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/saraanbih/Problem-Solving/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/saraanbih/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/saraanbih/Problem-Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saraanbih/Problem-Solving/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/saraanbih/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -335,6 +336,7 @@
 | [0498-diagonal-traverse](https://github.com/saraanbih/Problem-Solving/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/saraanbih/Problem-Solving/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/saraanbih/Problem-Solving/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/saraanbih/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/saraanbih/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saraanbih/Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/saraanbih/Problem-Solving/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -370,6 +372,7 @@
 | [1944-truncate-sentence](https://github.com/saraanbih/Problem-Solving/tree/master/1944-truncate-sentence) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/saraanbih/Problem-Solving/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/saraanbih/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/saraanbih/Problem-Solving/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/saraanbih/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/saraanbih/Problem-Solving/tree/master/2346-largest-3-same-digit-number-in-string) |
