@@ -280,6 +280,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/saraanbih/Problem-Solving/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/saraanbih/Problem-Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/saraanbih/Problem-Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saraanbih/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/saraanbih/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
@@ -433,6 +434,7 @@
 | [3321-type-of-triangle](https://github.com/saraanbih/Problem-Solving/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/saraanbih/Problem-Solving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saraanbih/Problem-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/saraanbih/Problem-Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/saraanbih/Problem-Solving/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
 |  |
@@ -450,6 +452,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/saraanbih/Problem-Solving/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/saraanbih/Problem-Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/saraanbih/Problem-Solving/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String Matching
@@ -543,6 +546,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saraanbih/Problem-Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saraanbih/Problem-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/saraanbih/Problem-Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/saraanbih/Problem-Solving/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/saraanbih/Problem-Solving/tree/master/3827-implement-router) |
@@ -726,6 +730,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saraanbih/Problem-Solving/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3618-find-the-original-typed-string-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3618-find-the-original-typed-string-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/saraanbih/Problem-Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/saraanbih/Problem-Solving/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/saraanbih/Problem-Solving/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
