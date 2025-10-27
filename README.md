@@ -102,6 +102,7 @@
 | [2050-count-good-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/saraanbih/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/saraanbih/Problem-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/saraanbih/Problem-Solving/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/saraanbih/Problem-Solving/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -238,6 +239,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/saraanbih/Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saraanbih/Problem-Solving/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/saraanbih/Problem-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/saraanbih/Problem-Solving/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/saraanbih/Problem-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/saraanbih/Problem-Solving/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -386,6 +388,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saraanbih/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/saraanbih/Problem-Solving/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/saraanbih/Problem-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/saraanbih/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/saraanbih/Problem-Solving/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/saraanbih/Problem-Solving/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -853,6 +856,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/saraanbih/Problem-Solving/tree/master/1628-count-submatrices-with-all-ones) |
 | [2035-count-sub-islands](https://github.com/saraanbih/Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/saraanbih/Problem-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/saraanbih/Problem-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saraanbih/Problem-Solving/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saraanbih/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
