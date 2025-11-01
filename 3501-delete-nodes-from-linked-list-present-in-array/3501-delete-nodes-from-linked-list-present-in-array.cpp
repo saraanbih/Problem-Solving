@@ -12,18 +12,22 @@ class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
         unordered_set<int> st(nums.begin(),nums.end());
-        vector<int> values;
+        ListNode* ans = nullptr;
+        ListNode* cur = nullptr;
         while(head){
-            if(!st.count(head->val))
-                values.push_back(head->val);
+            if(!st.count(head->val)){
+                if(ans == nullptr){
+                    ans = new ListNode(head->val);
+                    cur = ans;
+                }
+                else{
+                    cur->next = new ListNode(head->val,nullptr);
+                    cur = cur->next;
+                }
+            }
             head = head->next;
         }
-        ListNode* ans = new ListNode(values[0],nullptr);
-        ListNode* cur = ans;
-        for(int i=1;i<values.size();i++){
-            cur->next = new ListNode(values[i],nullptr);
-            cur = cur->next;
-        }
+       
         return ans;
     }
 };
