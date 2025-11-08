@@ -662,6 +662,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/saraanbih/Problem-Solving/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/saraanbih/Problem-Solving/tree/master/0342-power-of-four) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/saraanbih/Problem-Solving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saraanbih/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/saraanbih/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/saraanbih/Problem-Solving/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -838,6 +839,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saraanbih/Problem-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/saraanbih/Problem-Solving/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saraanbih/Problem-Solving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/saraanbih/Problem-Solving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saraanbih/Problem-Solving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/saraanbih/Problem-Solving/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/saraanbih/Problem-Solving/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -960,6 +962,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/saraanbih/Problem-Solving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/saraanbih/Problem-Solving/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/saraanbih/Problem-Solving/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/saraanbih/Problem-Solving/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
