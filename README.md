@@ -57,6 +57,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saraanbih/Problem-Solving/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/saraanbih/Problem-Solving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/saraanbih/Problem-Solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3412-permutation-difference-between-two-strings](https://github.com/saraanbih/Problem-Solving/tree/master/3412-permutation-difference-between-two-strings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saraanbih/Problem-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/saraanbih/Problem-Solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -304,6 +305,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/saraanbih/Problem-Solving/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saraanbih/Problem-Solving/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/saraanbih/Problem-Solving/tree/master/3321-type-of-triangle) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/saraanbih/Problem-Solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saraanbih/Problem-Solving/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saraanbih/Problem-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -806,6 +808,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/saraanbih/Problem-Solving/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/saraanbih/Problem-Solving/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/saraanbih/Problem-Solving/tree/master/2915-count-of-interesting-subarrays) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/saraanbih/Problem-Solving/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saraanbih/Problem-Solving/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/saraanbih/Problem-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3618-find-the-original-typed-string-ii) |
