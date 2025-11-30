@@ -32,6 +32,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/saraanbih/Problem-Solving/tree/master/1500-count-largest-group) |
+| [1590-make-sum-divisible-by-p](https://github.com/saraanbih/Problem-Solving/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/saraanbih/Problem-Solving/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/saraanbih/Problem-Solving/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/saraanbih/Problem-Solving/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -231,6 +232,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/saraanbih/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saraanbih/Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saraanbih/Problem-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/saraanbih/Problem-Solving/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/saraanbih/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/saraanbih/Problem-Solving/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/saraanbih/Problem-Solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -800,6 +802,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/saraanbih/Problem-Solving/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/saraanbih/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saraanbih/Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saraanbih/Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
