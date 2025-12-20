@@ -226,6 +226,7 @@
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/saraanbih/Problem-Solving/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/saraanbih/Problem-Solving/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/saraanbih/Problem-Solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/saraanbih/Problem-Solving/tree/master/0945-snakes-and-ladders) |
 | [1006-vowel-spellchecker](https://github.com/saraanbih/Problem-Solving/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/saraanbih/Problem-Solving/tree/master/1018-largest-perimeter-triangle) |
@@ -438,6 +439,7 @@
 | [0768-partition-labels](https://github.com/saraanbih/Problem-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/saraanbih/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/saraanbih/Problem-Solving/tree/master/0868-push-dominoes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/saraanbih/Problem-Solving/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/saraanbih/Problem-Solving/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/saraanbih/Problem-Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1205-defanging-an-ip-address](https://github.com/saraanbih/Problem-Solving/tree/master/1205-defanging-an-ip-address) |
