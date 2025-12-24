@@ -210,6 +210,7 @@
 | [0130-surrounded-regions](https://github.com/saraanbih/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saraanbih/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/saraanbih/Problem-Solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saraanbih/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/saraanbih/Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
@@ -919,6 +920,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/saraanbih/Problem-Solving/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/saraanbih/Problem-Solving/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0474-ones-and-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [0806-domino-and-tromino-tiling](https://github.com/saraanbih/Problem-Solving/tree/master/0806-domino-and-tromino-tiling) |
