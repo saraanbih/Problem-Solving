@@ -275,6 +275,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/saraanbih/Problem-Solving/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-truncate-sentence](https://github.com/saraanbih/Problem-Solving/tree/master/1944-truncate-sentence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/saraanbih/Problem-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/saraanbih/Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saraanbih/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/saraanbih/Problem-Solving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2035-count-sub-islands](https://github.com/saraanbih/Problem-Solving/tree/master/2035-count-sub-islands) |
@@ -621,6 +622,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/saraanbih/Problem-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/saraanbih/Problem-Solving/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/saraanbih/Problem-Solving/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/saraanbih/Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/saraanbih/Problem-Solving/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/saraanbih/Problem-Solving/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -1017,6 +1019,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saraanbih/Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/saraanbih/Problem-Solving/tree/master/1628-count-submatrices-with-all-ones) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/saraanbih/Problem-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/saraanbih/Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/saraanbih/Problem-Solving/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/saraanbih/Problem-Solving/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saraanbih/Problem-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
