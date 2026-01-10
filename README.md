@@ -457,6 +457,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saraanbih/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/saraanbih/Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/saraanbih/Problem-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/saraanbih/Problem-Solving/tree/master/0782-jewels-and-stones) |
@@ -963,6 +964,7 @@
 | [0198-house-robber](https://github.com/saraanbih/Problem-Solving/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0474-ones-and-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/saraanbih/Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/saraanbih/Problem-Solving/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/saraanbih/Problem-Solving/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/saraanbih/Problem-Solving/tree/master/0867-new-21-game) |
