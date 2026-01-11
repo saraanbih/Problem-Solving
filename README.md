@@ -213,6 +213,7 @@
 | [0073-set-matrix-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saraanbih/Problem-Solving/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/saraanbih/Problem-Solving/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/saraanbih/Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/saraanbih/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/saraanbih/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saraanbih/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -591,6 +592,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/saraanbih/Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/saraanbih/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/saraanbih/Problem-Solving/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/saraanbih/Problem-Solving/tree/master/0155-min-stack) |
@@ -665,6 +667,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/saraanbih/Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/saraanbih/Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/saraanbih/Problem-Solving/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saraanbih/Problem-Solving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -960,6 +963,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/saraanbih/Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/saraanbih/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/saraanbih/Problem-Solving/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1019,6 +1023,7 @@
 | [0037-sudoku-solver](https://github.com/saraanbih/Problem-Solving/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/saraanbih/Problem-Solving/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/saraanbih/Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/saraanbih/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/saraanbih/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
