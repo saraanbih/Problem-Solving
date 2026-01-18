@@ -278,6 +278,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saraanbih/Problem-Solving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saraanbih/Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/saraanbih/Problem-Solving/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/saraanbih/Problem-Solving/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-truncate-sentence](https://github.com/saraanbih/Problem-Solving/tree/master/1944-truncate-sentence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/saraanbih/Problem-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -910,6 +911,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/saraanbih/Problem-Solving/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/saraanbih/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saraanbih/Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/saraanbih/Problem-Solving/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saraanbih/Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/saraanbih/Problem-Solving/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/saraanbih/Problem-Solving/tree/master/2249-count-the-hidden-sequences) |
@@ -1049,6 +1051,7 @@
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saraanbih/Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/saraanbih/Problem-Solving/tree/master/1628-count-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/saraanbih/Problem-Solving/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/saraanbih/Problem-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/saraanbih/Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/saraanbih/Problem-Solving/tree/master/2035-count-sub-islands) |
