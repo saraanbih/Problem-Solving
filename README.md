@@ -975,6 +975,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/saraanbih/Problem-Solving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saraanbih/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/saraanbih/Problem-Solving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/saraanbih/Problem-Solving/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
@@ -1164,6 +1165,7 @@
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/saraanbih/Problem-Solving/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/saraanbih/Problem-Solving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Trie
 |  |
 | ------- |
@@ -1229,4 +1231,8 @@
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/saraanbih/Problem-Solving/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
