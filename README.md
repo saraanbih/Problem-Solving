@@ -234,6 +234,7 @@
 | [0611-valid-triangle-number](https://github.com/saraanbih/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/saraanbih/Problem-Solving/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/saraanbih/Problem-Solving/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/saraanbih/Problem-Solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/saraanbih/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/saraanbih/Problem-Solving/tree/master/0830-largest-triangle-area) |
@@ -705,6 +706,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saraanbih/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/saraanbih/Problem-Solving/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/saraanbih/Problem-Solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/saraanbih/Problem-Solving/tree/master/0794-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/saraanbih/Problem-Solving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
