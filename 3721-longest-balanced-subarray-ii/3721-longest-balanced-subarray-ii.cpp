@@ -14,8 +14,6 @@ struct LazyTag {
 struct SegmentTreeNode {
     int min_value = 0;
     int max_value = 0;
-    // int data = 0; // only leaf nodes are used, this question does not require
-    // it.
     LazyTag lazy_tag;
 };
 
@@ -97,8 +95,6 @@ private:
             return -1;
         }
 
-        // according to the Intermediate Value Theorem, there must be a solution
-        // within this interval.
         if (l == r) {
             return l;
         }
@@ -106,7 +102,6 @@ private:
         pushdown(i);
         int mid = l + ((r - l) >> 1);
 
-        // target_l is definitely less than or equal to r (=n)
         if (target_r >= mid + 1) {
             int res = find(target_l, target_r, val, mid + 1, r, i << 1 | 1);
             if (res != -1) return res;
