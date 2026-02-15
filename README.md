@@ -100,6 +100,7 @@
 | [0012-integer-to-roman](https://github.com/saraanbih/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/saraanbih/Problem-Solving/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saraanbih/Problem-Solving/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/saraanbih/Problem-Solving/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saraanbih/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/saraanbih/Problem-Solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/saraanbih/Problem-Solving/tree/master/0326-power-of-three) |
@@ -460,6 +461,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saraanbih/Problem-Solving/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/saraanbih/Problem-Solving/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/saraanbih/Problem-Solving/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/saraanbih/Problem-Solving/tree/master/2048-build-array-from-permutation) |
@@ -488,6 +490,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/saraanbih/Problem-Solving/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/saraanbih/Problem-Solving/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/saraanbih/Problem-Solving/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/saraanbih/Problem-Solving/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
@@ -827,6 +830,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saraanbih/Problem-Solving/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/saraanbih/Problem-Solving/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/saraanbih/Problem-Solving/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0756-pyramid-transition-matrix) |
