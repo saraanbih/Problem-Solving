@@ -793,6 +793,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/saraanbih/Problem-Solving/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/saraanbih/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
@@ -831,6 +832,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/saraanbih/Problem-Solving/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/saraanbih/Problem-Solving/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/saraanbih/Problem-Solving/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/saraanbih/Problem-Solving/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0756-pyramid-transition-matrix) |
