@@ -835,6 +835,7 @@
 | [0190-reverse-bits](https://github.com/saraanbih/Problem-Solving/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/saraanbih/Problem-Solving/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/saraanbih/Problem-Solving/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/saraanbih/Problem-Solving/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/saraanbih/Problem-Solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/saraanbih/Problem-Solving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
