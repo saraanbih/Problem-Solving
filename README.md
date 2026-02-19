@@ -442,6 +442,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saraanbih/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/saraanbih/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/saraanbih/Problem-Solving/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/saraanbih/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/saraanbih/Problem-Solving/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/saraanbih/Problem-Solving/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/saraanbih/Problem-Solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -496,6 +497,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saraanbih/Problem-Solving/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/saraanbih/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/saraanbih/Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/saraanbih/Problem-Solving/tree/master/0768-partition-labels) |
