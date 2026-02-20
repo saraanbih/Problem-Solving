@@ -500,6 +500,7 @@
 | [0696-count-binary-substrings](https://github.com/saraanbih/Problem-Solving/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/saraanbih/Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/saraanbih/Problem-Solving/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/saraanbih/Problem-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/saraanbih/Problem-Solving/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/saraanbih/Problem-Solving/tree/master/0868-push-dominoes) |
@@ -569,6 +570,7 @@
 | [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/saraanbih/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/saraanbih/Problem-Solving/tree/master/0611-valid-triangle-number) |
+| [0761-special-binary-string](https://github.com/saraanbih/Problem-Solving/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/saraanbih/Problem-Solving/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/saraanbih/Problem-Solving/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/saraanbih/Problem-Solving/tree/master/1200-minimum-absolute-difference) |
@@ -796,6 +798,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/saraanbih/Problem-Solving/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/saraanbih/Problem-Solving/tree/master/0761-special-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/saraanbih/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
