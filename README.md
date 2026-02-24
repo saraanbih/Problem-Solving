@@ -878,6 +878,7 @@
 | [0764-n-ary-tree-level-order-traversal](https://github.com/saraanbih/Problem-Solving/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saraanbih/Problem-Solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -907,6 +908,7 @@
 | [0813-all-paths-from-source-to-target](https://github.com/saraanbih/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/saraanbih/Problem-Solving/tree/master/0820-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saraanbih/Problem-Solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -969,6 +971,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/saraanbih/Problem-Solving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/saraanbih/Problem-Solving/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
