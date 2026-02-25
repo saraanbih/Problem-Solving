@@ -268,6 +268,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/saraanbih/Problem-Solving/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saraanbih/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1390-four-divisors](https://github.com/saraanbih/Problem-Solving/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saraanbih/Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -579,6 +580,7 @@
 | [1200-minimum-absolute-difference](https://github.com/saraanbih/Problem-Solving/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/saraanbih/Problem-Solving/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/saraanbih/Problem-Solving/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saraanbih/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/saraanbih/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/saraanbih/Problem-Solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/saraanbih/Problem-Solving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -811,6 +813,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/saraanbih/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/saraanbih/Problem-Solving/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saraanbih/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/saraanbih/Problem-Solving/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/saraanbih/Problem-Solving/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saraanbih/Problem-Solving/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -847,6 +850,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/saraanbih/Problem-Solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/saraanbih/Problem-Solving/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saraanbih/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/saraanbih/Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/saraanbih/Problem-Solving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saraanbih/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
