@@ -129,6 +129,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/saraanbih/Problem-Solving/tree/master/1585-the-kth-factor-of-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/saraanbih/Problem-Solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/saraanbih/Problem-Solving/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/saraanbih/Problem-Solving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/saraanbih/Problem-Solving/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saraanbih/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -468,6 +469,7 @@
 | [0067-add-binary](https://github.com/saraanbih/Problem-Solving/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/saraanbih/Problem-Solving/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/saraanbih/Problem-Solving/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/saraanbih/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/saraanbih/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/saraanbih/Problem-Solving/tree/master/2169-simple-bank-system) |
@@ -852,6 +854,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/saraanbih/Problem-Solving/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saraanbih/Problem-Solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/saraanbih/Problem-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/saraanbih/Problem-Solving/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/saraanbih/Problem-Solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/saraanbih/Problem-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
