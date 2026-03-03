@@ -279,6 +279,7 @@
 | [1458-max-dot-product-of-two-subsequences](https://github.com/saraanbih/Problem-Solving/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/saraanbih/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/saraanbih/Problem-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/saraanbih/Problem-Solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/saraanbih/Problem-Solving/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/saraanbih/Problem-Solving/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/saraanbih/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
@@ -686,6 +687,7 @@
 | [1448-maximum-69-number](https://github.com/saraanbih/Problem-Solving/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/saraanbih/Problem-Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/saraanbih/Problem-Solving/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/saraanbih/Problem-Solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/saraanbih/Problem-Solving/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/saraanbih/Problem-Solving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -1142,6 +1144,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-number-of-closed-islands](https://github.com/saraanbih/Problem-Solving/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/saraanbih/Problem-Solving/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/saraanbih/Problem-Solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/saraanbih/Problem-Solving/tree/master/1628-count-submatrices-with-all-ones) |
 | [1895-largest-magic-square](https://github.com/saraanbih/Problem-Solving/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/saraanbih/Problem-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
