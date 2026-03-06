@@ -527,6 +527,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/saraanbih/Problem-Solving/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/saraanbih/Problem-Solving/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/saraanbih/Problem-Solving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/saraanbih/Problem-Solving/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saraanbih/Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/saraanbih/Problem-Solving/tree/master/1944-truncate-sentence) |
