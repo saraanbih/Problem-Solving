@@ -128,6 +128,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/saraanbih/Problem-Solving/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/saraanbih/Problem-Solving/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/saraanbih/Problem-Solving/tree/master/1585-the-kth-factor-of-n) |
+| [1622-fancy-sequence](https://github.com/saraanbih/Problem-Solving/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/saraanbih/Problem-Solving/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/saraanbih/Problem-Solving/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -739,6 +740,7 @@
 | [0155-min-stack](https://github.com/saraanbih/Problem-Solving/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/saraanbih/Problem-Solving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1622-fancy-sequence](https://github.com/saraanbih/Problem-Solving/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/saraanbih/Problem-Solving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/saraanbih/Problem-Solving/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/saraanbih/Problem-Solving/tree/master/2429-design-a-food-rating-system) |
@@ -1280,6 +1282,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/saraanbih/Problem-Solving/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/saraanbih/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3721-longest-balanced-subarray-ii) |
