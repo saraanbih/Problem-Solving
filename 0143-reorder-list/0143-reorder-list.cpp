@@ -10,41 +10,31 @@
  */
 class Solution {
 public:
-    vector<int> solve(vector<int>& v) {
-        int i = 0, n = v.size() - 1;
-        vector<int> res;
-        while (i <= n) {
-            res.push_back(v[i]);
-            if (i != n) {
-                res.push_back(v[n]);
-            }
-            i++;
-            n--;
-        }
-        return res;
-    }
-
     void reorderList(ListNode* head) {
-        if (!head || !head->next) return; // Edge case: empty list or single node
-
-        // Step 1: Store the values of the linked list in a vector
-        ListNode* temp = head;
-        vector<int> v;
-        while (temp) {
-            v.push_back(temp->val);
-            temp = temp->next;
+        ListNode *fast = head,*slow = head;
+        while(fast->next && fast->next->next){
+            slow = slow->next;
+            fast = fast->next->next;
         }
+        ListNode* cur=slow->next,*prev = NULL,*nxt=NULL;
+        slow->next = NULL;
+        while(cur){
+            nxt = cur->next;
+            cur->next = prev;
+            prev = cur;
+            cur = nxt;
+        }
+        
+        ListNode* first=head, *second=prev;
+        while(second){
+            ListNode* tmp1 = first->next;
+            ListNode* tmp2 = second->next;
 
-        // Step 2: Reorder the values using the solve function
-        vector<int> res = solve(v);
+            first->next = second;
+            second->next = tmp1;
 
-        // Step 3: Update the original linked list with the reordered values
-        temp = head;
-        int index = 0;
-        while (temp) {
-            temp->val = res[index++];
-            temp = temp->next;
+            first = tmp1;
+            second = tmp2;
         }
     }
-
 };
