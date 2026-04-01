@@ -11,19 +11,13 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        vector<int> v;
-        while(head){
-            v.push_back(head->val);
-            head = head->next;
+        ListNode* cur = head,*nxt=NULL,*prev=NULL;
+        while(cur){
+            nxt = cur->next;
+            cur->next = prev;
+            prev = cur;
+            cur = nxt;
         }
-        if(v.empty())return {};
-        reverse(v.begin(),v.end());
-        ListNode* h = new ListNode(v[0]);
-        ListNode* cur = h;
-        for(int i=1;i<v.size();i++){
-            cur->next = new ListNode(v[i]);
-            cur = cur->next;
-        }
-        return h;
+        return prev;
     }
 };
