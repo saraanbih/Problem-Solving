@@ -818,6 +818,7 @@
 | [0002-add-two-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saraanbih/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/saraanbih/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/saraanbih/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/saraanbih/Problem-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/saraanbih/Problem-Solving/tree/master/0141-linked-list-cycle) |
@@ -851,6 +852,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saraanbih/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/saraanbih/Problem-Solving/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/saraanbih/Problem-Solving/tree/master/0761-special-binary-string) |
@@ -1076,6 +1078,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saraanbih/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/saraanbih/Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/saraanbih/Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/saraanbih/Problem-Solving/tree/master/0794-swim-in-rising-water) |
@@ -1398,4 +1401,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/saraanbih/Problem-Solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saraanbih/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
