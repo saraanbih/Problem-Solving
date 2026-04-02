@@ -30,7 +30,6 @@ public:
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         if(lists.empty()) return nullptr;
-        priority_queue<int, vector<int>, greater<int>> pq;
         ListNode* merged = lists[0];
         for(int i=1;i<lists.size();i++){
             merged = merge(merged, lists[i]);            
