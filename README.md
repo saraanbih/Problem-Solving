@@ -437,6 +437,7 @@
 | [3651-minimum-cost-path-with-teleportations](https://github.com/saraanbih/Problem-Solving/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/saraanbih/Problem-Solving/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/saraanbih/Problem-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/saraanbih/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/saraanbih/Problem-Solving/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/saraanbih/Problem-Solving/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -876,6 +877,7 @@
 | [0190-reverse-bits](https://github.com/saraanbih/Problem-Solving/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/saraanbih/Problem-Solving/tree/master/0761-special-binary-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/saraanbih/Problem-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/saraanbih/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
