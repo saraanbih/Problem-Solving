@@ -356,6 +356,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/saraanbih/Problem-Solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/saraanbih/Problem-Solving/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/saraanbih/Problem-Solving/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/saraanbih/Problem-Solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/saraanbih/Problem-Solving/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/saraanbih/Problem-Solving/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/saraanbih/Problem-Solving/tree/master/2551-apply-operations-to-an-array) |
@@ -589,6 +590,7 @@
 | [2429-design-a-food-rating-system](https://github.com/saraanbih/Problem-Solving/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/saraanbih/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/saraanbih/Problem-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/saraanbih/Problem-Solving/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/saraanbih/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/saraanbih/Problem-Solving/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/saraanbih/Problem-Solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
