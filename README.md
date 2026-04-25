@@ -167,6 +167,7 @@
 | [3321-type-of-triangle](https://github.com/saraanbih/Problem-Solving/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/saraanbih/Problem-Solving/tree/master/3462-vowels-game-in-a-string) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/saraanbih/Problem-Solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/saraanbih/Problem-Solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/saraanbih/Problem-Solving/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/saraanbih/Problem-Solving/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -416,6 +417,7 @@
 | [3454-separate-squares-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/saraanbih/Problem-Solving/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/saraanbih/Problem-Solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/saraanbih/Problem-Solving/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/saraanbih/Problem-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -679,6 +681,7 @@
 | [3321-type-of-triangle](https://github.com/saraanbih/Problem-Solving/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/saraanbih/Problem-Solving/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saraanbih/Problem-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/saraanbih/Problem-Solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3531-count-covered-buildings](https://github.com/saraanbih/Problem-Solving/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/saraanbih/Problem-Solving/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/saraanbih/Problem-Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -844,6 +847,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saraanbih/Problem-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/saraanbih/Problem-Solving/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/saraanbih/Problem-Solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/saraanbih/Problem-Solving/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/saraanbih/Problem-Solving/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1415,6 +1419,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/saraanbih/Problem-Solving/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/saraanbih/Problem-Solving/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/saraanbih/Problem-Solving/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/saraanbih/Problem-Solving/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saraanbih/Problem-Solving/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Game Theory
