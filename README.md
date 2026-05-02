@@ -112,6 +112,7 @@
 | [0231-power-of-two](https://github.com/saraanbih/Problem-Solving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/saraanbih/Problem-Solving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/saraanbih/Problem-Solving/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/saraanbih/Problem-Solving/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/saraanbih/Problem-Solving/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/saraanbih/Problem-Solving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/saraanbih/Problem-Solving/tree/master/0797-rabbits-in-forest) |
@@ -247,6 +248,7 @@
 | [0198-house-robber](https://github.com/saraanbih/Problem-Solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saraanbih/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0396-rotate-function](https://github.com/saraanbih/Problem-Solving/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/saraanbih/Problem-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/saraanbih/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0474-ones-and-zeroes) |
@@ -1180,6 +1182,7 @@
 | [0118-pascals-triangle](https://github.com/saraanbih/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/saraanbih/Problem-Solving/tree/master/0198-house-robber) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/saraanbih/Problem-Solving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0396-rotate-function](https://github.com/saraanbih/Problem-Solving/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/saraanbih/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/saraanbih/Problem-Solving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/saraanbih/Problem-Solving/tree/master/0799-champagne-tower) |
