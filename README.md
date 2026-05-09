@@ -323,6 +323,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saraanbih/Problem-Solving/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/saraanbih/Problem-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/saraanbih/Problem-Solving/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/saraanbih/Problem-Solving/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/saraanbih/Problem-Solving/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-truncate-sentence](https://github.com/saraanbih/Problem-Solving/tree/master/1944-truncate-sentence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/saraanbih/Problem-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -528,6 +529,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/saraanbih/Problem-Solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/saraanbih/Problem-Solving/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saraanbih/Problem-Solving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/saraanbih/Problem-Solving/tree/master/1914-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/saraanbih/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2069-walking-robot-simulation-ii](https://github.com/saraanbih/Problem-Solving/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/saraanbih/Problem-Solving/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -1288,6 +1290,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/saraanbih/Problem-Solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saraanbih/Problem-Solving/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/saraanbih/Problem-Solving/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/saraanbih/Problem-Solving/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/saraanbih/Problem-Solving/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/saraanbih/Problem-Solving/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/saraanbih/Problem-Solving/tree/master/2035-count-sub-islands) |
