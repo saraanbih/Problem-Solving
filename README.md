@@ -246,6 +246,7 @@
 | [0085-maximal-rectangle](https://github.com/saraanbih/Problem-Solving/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/saraanbih/Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/saraanbih/Problem-Solving/tree/master/0130-surrounded-regions) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/saraanbih/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saraanbih/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saraanbih/Problem-Solving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/saraanbih/Problem-Solving/tree/master/0198-house-robber) |
@@ -840,6 +841,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/saraanbih/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saraanbih/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/saraanbih/Problem-Solving/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/saraanbih/Problem-Solving/tree/master/0744-find-smallest-letter-greater-than-target) |
