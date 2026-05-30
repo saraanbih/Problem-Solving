@@ -411,6 +411,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/saraanbih/Problem-Solving/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/saraanbih/Problem-Solving/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3161-block-placement-queries](https://github.com/saraanbih/Problem-Solving/tree/master/3161-block-placement-queries) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/saraanbih/Problem-Solving/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/saraanbih/Problem-Solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/saraanbih/Problem-Solving/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -868,6 +869,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/saraanbih/Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/saraanbih/Problem-Solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3161-block-placement-queries](https://github.com/saraanbih/Problem-Solving/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/saraanbih/Problem-Solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/saraanbih/Problem-Solving/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/saraanbih/Problem-Solving/tree/master/3453-separate-squares-i) |
@@ -1425,6 +1427,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/saraanbih/Problem-Solving/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/saraanbih/Problem-Solving/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/saraanbih/Problem-Solving/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1505,4 +1508,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saraanbih/Problem-Solving/tree/master/0023-merge-k-sorted-lists) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/saraanbih/Problem-Solving/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
