@@ -492,6 +492,7 @@
 | [3791-fruits-into-baskets-iii](https://github.com/saraanbih/Problem-Solving/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/saraanbih/Problem-Solving/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/saraanbih/Problem-Solving/tree/master/3827-implement-router) |
+| [3838-weighted-word-mapping](https://github.com/saraanbih/Problem-Solving/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/saraanbih/Problem-Solving/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
 |  |
@@ -565,6 +566,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/saraanbih/Problem-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saraanbih/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/saraanbih/Problem-Solving/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
@@ -657,6 +659,7 @@
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/saraanbih/Problem-Solving/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saraanbih/Problem-Solving/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/saraanbih/Problem-Solving/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/saraanbih/Problem-Solving/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saraanbih/Problem-Solving/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
